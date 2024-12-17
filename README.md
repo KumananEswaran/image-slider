@@ -2,7 +2,7 @@
  
 <a href="https://image-slider-brocode.netlify.app/">
  
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o1MnR1cDMyM3p4ZjZkZHBwdGxzaWhheG1sc2xwMmtzdnp5d2gyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hZ5YzJqYQdC5HOcOND/giphy.gif
+
 
 ### IMAGE SLIDER - FOLLOW ALONG TUTORIAL FROM BRO CODE ON YOU TUBE
 
