@@ -1,8 +1,8 @@
 # Image Slider: <a target="_blank" href="https://image-slider-brocode.netlify.app/">Visit Here</a>
  
-<a href="https://image-slider-brocode.netlify.app/">
- 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:41.54%;position:relative;"><iframe width="260" height="108" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9e67y2"></iframe></div><p><a href="https://imgflip.com/gif/9e67y2">via Imgflip</a></p></div>
+<a href="https://image-slider-brocode.netlify.app/" target="_blank">
+<img src="https://imgflip.com/gif/9e67y2" width="100%" alt="image-slider"/>
+</a>
 
 ### IMAGE SLIDER - FOLLOW ALONG TUTORIAL FROM BRO CODE ON YOU TUBE
 
